@@ -12,15 +12,8 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
-#nullable restore
-#line 1 "C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\Views\_ViewImports.cshtml"
-using Lesson2_MWC;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"169b228f6e12bc8518eddfa02b64f565298cd9cc65b7fe03165afd34cf58e8d1", @"/Views/Home/Index2.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"53a62e3bedab9f36903b0bfbb30524f7f954cdc51f80eff0ef43516b1b08fffe", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"51a832e7c307cea44622bb491d075e8c8970213b5f273938ae507fba54181892", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home_Index2 : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     #nullable disable
@@ -59,7 +52,7 @@ using Lesson2_MWC;
 #line hidden
 #nullable disable
             WriteLiteral("<!DOCTYPE html />\r\n\r\n<html>\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "169b228f6e12bc8518eddfa02b64f565298cd9cc65b7fe03165afd34cf58e8d13443", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "169b228f6e12bc8518eddfa02b64f565298cd9cc65b7fe03165afd34cf58e8d13257", async() => {
             }
             );
             __Microsoft_AspNetCore_Mvc_Razor_TagHelpers_HeadTagHelper = CreateTagHelper<global::Microsoft.AspNetCore.Mvc.Razor.TagHelpers.HeadTagHelper>();
@@ -72,7 +65,7 @@ using Lesson2_MWC;
             Write(__tagHelperExecutionContext.Output);
             __tagHelperExecutionContext = __tagHelperScopeManager.End();
             WriteLiteral("\r\n    ");
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "169b228f6e12bc8518eddfa02b64f565298cd9cc65b7fe03165afd34cf58e8d14398", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "169b228f6e12bc8518eddfa02b64f565298cd9cc65b7fe03165afd34cf58e8d14212", async() => {
                 WriteLiteral("\r\n        <h1 style=\"color:red;\">\r\n            Hello from Index2\r\n        </h1>\r\n    ");
             }
             );

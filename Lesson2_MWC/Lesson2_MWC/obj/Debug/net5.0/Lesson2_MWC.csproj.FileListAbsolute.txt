@@ -115,5 +115,5 @@ C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\bin\Debug\net5.0\run
 C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\obj\Debug\net5.0\Lesson2_MWC.csproj.AssemblyReference.cache
 C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\obj\Debug\net5.0\Razor\Views\Home\Employee1.cshtml.g.cs
-C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
 C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\obj\Debug\net5.0\Razor\Views\Home\Employee2.cshtml.g.cs
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\obj\Debug\net5.0\Razor\Views\Employee\Add.cshtml.g.cs

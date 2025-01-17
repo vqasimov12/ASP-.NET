@@ -12,15 +12,8 @@ namespace AspNetCore
     using global::Microsoft.AspNetCore.Mvc;
     using global::Microsoft.AspNetCore.Mvc.Rendering;
     using global::Microsoft.AspNetCore.Mvc.ViewFeatures;
-#nullable restore
-#line 1 "C:\Users\Qasim_wu20\Desktop\ASP.NET\Lesson2_MWC\Lesson2_MWC\Views\_ViewImports.cshtml"
-using Lesson2_MWC;
-
-#line default
-#line hidden
-#nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"128381c8f1106498fe23cccd8b025dbf3bf7e37ca218e53abd644f71e5a083a9", @"/Views/Home/Employee2.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"53a62e3bedab9f36903b0bfbb30524f7f954cdc51f80eff0ef43516b1b08fffe", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"Sha256", @"51a832e7c307cea44622bb491d075e8c8970213b5f273938ae507fba54181892", @"/Views/_ViewImports.cshtml")]
     #nullable restore
     public class Views_Home_Employee2 : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Lesson2_MWC.Models.EmploeeViewModel>
     #nullable disable
