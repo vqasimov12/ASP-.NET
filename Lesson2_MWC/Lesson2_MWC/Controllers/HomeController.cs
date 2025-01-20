@@ -1,5 +1,6 @@
 ﻿using Lesson2_MWC.Entities;
 using Lesson2_MWC.Models;
+using Lesson2_MWC.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Routing;
 using System.Collections.Generic;
@@ -9,7 +10,15 @@ namespace Lesson2_MWC.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index() => "Hello from index action";
+        private readonly ICalculate _calculate;
+
+        public HomeController(ICalculate calculate)
+        {
+            _calculate = calculate;
+        }
+
+
+        public string Index() => $"Hello from index action {_calculate.Calculate(100)}";
 
         public IActionResult Index2() => View();
 
@@ -222,8 +231,5 @@ namespace Lesson2_MWC.Controllers
                 return Json(employees.Where(e => e.Firstname.Contains(key) || e.Id == id));
         }
 
-
-
     }
-
 }

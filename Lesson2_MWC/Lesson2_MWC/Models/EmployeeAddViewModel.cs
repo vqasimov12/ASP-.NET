@@ -8,9 +8,5 @@ namespace Lesson2_MWC.Models
     {
         public Employee Employee { get; set; }
         public List<SelectListItem>Cities { get; set; }
-
-
-
-
     }
 }

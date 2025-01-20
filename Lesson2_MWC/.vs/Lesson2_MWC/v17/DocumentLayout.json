@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\views\\employee\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\models\\employeeaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\models\\employeeaddviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\services\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\services\\calculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\lesson2_mwc\\lesson2_mwc\\services\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98AD101C-E0B9-4D98-B144-6E243DE87A9E}|Lesson2_MWC\\Lesson2_MWC.csproj|solutionrelative:lesson2_mwc\\services\\icalculate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +30,54 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Entities\\Employee.cs",
-              "RelativeDocumentMoniker": "Lesson2_MWC\\Entities\\Employee.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Entities\\Employee.cs",
-              "RelativeToolTip": "Lesson2_MWC\\Entities\\Employee.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAASAAAA",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Lesson2_MWC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Lesson2_MWC\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T05:51:39.325Z",
+              "WhenOpened": "2025-01-20T08:04:12.631Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Add.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Views\\Employee\\Add.cshtml",
-              "RelativeDocumentMoniker": "Lesson2_MWC\\Views\\Employee\\Add.cshtml",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Views\\Employee\\Add.cshtml",
-              "RelativeToolTip": "Lesson2_MWC\\Views\\Employee\\Add.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAHAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-17T05:31:39.873Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "EmployeeAddViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Models\\EmployeeAddViewModel.cs",
-              "RelativeDocumentMoniker": "Lesson2_MWC\\Models\\EmployeeAddViewModel.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Models\\EmployeeAddViewModel.cs",
-              "RelativeToolTip": "Lesson2_MWC\\Models\\EmployeeAddViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Startup.cs",
+              "RelativeDocumentMoniker": "Lesson2_MWC\\Startup.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Startup.cs",
+              "RelativeToolTip": "Lesson2_MWC\\Startup.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T05:28:11.895Z",
+              "WhenOpened": "2025-01-20T08:01:05.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Lesson2_MWC\\Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Lesson2_MWC\\Controllers\\EmployeeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAkAAAARAAAA",
+              "Title": "Calculate.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Services\\Calculate.cs",
+              "RelativeDocumentMoniker": "Lesson2_MWC\\Services\\Calculate.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Services\\Calculate.cs",
+              "RelativeToolTip": "Lesson2_MWC\\Services\\Calculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-17T05:27:47.398Z",
+              "WhenOpened": "2025-01-20T08:00:04.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICalculate.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Services\\ICalculate.cs",
+              "RelativeDocumentMoniker": "Lesson2_MWC\\Services\\ICalculate.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Lesson2_MWC\\Lesson2_MWC\\Services\\ICalculate.cs",
+              "RelativeToolTip": "Lesson2_MWC\\Services\\ICalculate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-20T07:59:38.786Z",
               "EditorCaption": ""
             }
           ]

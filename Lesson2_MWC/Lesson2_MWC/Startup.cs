@@ -1,13 +1,11 @@
+using Lesson2_MWC.Context;
+using Lesson2_MWC.Services;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
-using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace Lesson2_MWC
 {
@@ -24,6 +22,10 @@ namespace Lesson2_MWC
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            // string conn = "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=SchoolDb;Integrated Security=True;Connect Timeout=30;Encrypt=False;Trust Server Certificate=False;Application Intent=ReadWrite;Multi Subnet Failover=False";
+            var conn = Configuration.GetConnectionString("DefaultConnection");
+            services.AddDbContext<SchoolDbContext>(opt => { opt.UseSqlServer(conn); });
+            services.AddSingleton<ICalculate, Calculate>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
