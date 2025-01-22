@@ -1,22 +1,18 @@
-﻿using Lesson2_MWC.Context;
+﻿using Lesson2_MWC.Services;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 
 namespace Lesson2_MWC.Controllers
 {
     public class StudentController : Controller
     {
-        private readonly SchoolDbContext _context;
+        private readonly IStudentService _studentService;
 
-        public StudentController(SchoolDbContext context)
+        public StudentController(IStudentService studentService)
         {
-            _context = context;
+            _studentService = studentService;
         }
 
-        public async Task<IActionResult> Index()
-        {
-            return View(await _context.Students.ToListAsync());
-        }
+        public async Task<IActionResult> Index(string key = "") => View(await _studentService.GetAllByKey(key));
     }
 }

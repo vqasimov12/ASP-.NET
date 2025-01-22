@@ -17,7 +17,6 @@ namespace Lesson2_MWC.Controllers
             _calculate = calculate;
         }
 
-
         public string Index() => $"Hello from index action {_calculate.Calculate(100)}";
 
         public IActionResult Index2() => View();
