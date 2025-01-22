@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\viewcomponentlesson\\viewcomponentlesson\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|solutionrelative:viewcomponentlesson\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\viewcomponentlesson\\viewcomponentlesson\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|solutionrelative:viewcomponentlesson\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\viewcomponentlesson\\viewcomponentlesson\\viewcomponents\\categorylistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|solutionrelative:viewcomponentlesson\\viewcomponents\\categorylistviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\viewcomponentlesson\\viewcomponentlesson\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFA6030-8812-4CFA-841D-9B9BBE982A46}|ViewComponentLesson\\ViewComponentLesson.csproj|solutionrelative:viewcomponentlesson\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewComponentLesson\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewComponentLesson\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:10:15.5Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "RelativeDocumentMoniker": "ViewComponentLesson\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "RelativeToolTip": "ViewComponentLesson\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-22T08:05:48.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoryListViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\ViewComponents\\CategoryListViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponentLesson\\ViewComponents\\CategoryListViewComponent.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\ViewComponents\\CategoryListViewComponent.cs",
+              "RelativeToolTip": "ViewComponentLesson\\ViewComponents\\CategoryListViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:59:15.071Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewComponentLesson\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\ViewComponentLesson\\ViewComponentLesson\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewComponentLesson\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T07:32:28.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
