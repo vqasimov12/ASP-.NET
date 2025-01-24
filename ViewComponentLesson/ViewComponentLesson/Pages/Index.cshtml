@@ -1,0 +1,52 @@
+﻿@page
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+@model ViewComponentLesson.Pages.IndexModel
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1 class="m-5 text-danger">Special Info @Model.Message</h1>
+
+@* <div class="alert-warning" role="alert">
+    @Model.Info
+</div> *@
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th class="col">Id</th>
+            <th class="col">Name</th>
+            <th class="col">Price</th>
+            <th class="col">Edit</th>
+            <th class="col">
+                Delete
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Products)
+        {
+            <tr>
+                <th class="col">@item.Id</th>
+                <th class="col">@item.Name</th>
+                <th class="col">@item.Price</th>
+                <th class="col"><a class="btn btn-outline-primary">Edit</a></th>
+                <th class="col"><a class="btn btn-outline-primary">Delete</a></th>
+
+            </tr>
+        }
+    </tbody>
+
+    <form class="col-5 gap-3" method="post">
+        <div class="wb-3 gap-3">
+            <label class="from-label">Product.Name</label>
+            <input type="text" class="form-control" asp-for="Product.Name"/>
+        </div>
+        <div class="wb-3 gap-3 my-3">
+            <label class="from-label">Product.Price</label>
+            <input asp-for="Product.Price" type="number" class="form-control"/>
+        </div>
+        <button type="submit" class="btn btn-primary">Add Product</button>
+    </form>
+</table>
