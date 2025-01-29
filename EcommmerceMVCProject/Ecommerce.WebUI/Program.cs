@@ -7,13 +7,9 @@ using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Add services to the container.
 builder.Services.AddControllersWithViews();
-//var a = new SessionOptions();
-//a.IdleTimeout =TimeSpan.FromSeconds(1000);
-//builder.Services.AddSession(a);
 builder.Services.AddSession();
-var conn = builder.Configuration.GetConnectionString("DefaulConnetion");
+var conn = builder.Configuration.GetConnectionString("DefaulConnection");
 builder.Services.AddDbContext<NortWindDbContext>(opt =>
 {
     opt.UseSqlServer(conn);
@@ -21,11 +17,12 @@ builder.Services.AddDbContext<NortWindDbContext>(opt =>
 
 builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
 builder.Services.AddScoped<ICategoryService, CategoryServic>();
+builder.Services.AddScoped<IProductService, ProductService>();
+builder.Services.AddScoped<IProductDal, EFProductDal>();
 
 
 var app = builder.Build();
 
-// Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
 {
     app.UseExceptionHandler("/Home/Error");
@@ -41,6 +38,6 @@ app.UseAuthorization();
 app.UseSession();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Category}/{action=Index}/{id?}");
+    pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();

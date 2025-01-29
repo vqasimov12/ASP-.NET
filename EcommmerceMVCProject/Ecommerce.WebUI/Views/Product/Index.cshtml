@@ -1,0 +1,35 @@
+﻿@model ProductListViewModel
+<p>
+    <a href="#" class="btn btn-outline-primary">Create New</a>
+</p>
+
+
+<table class="table ">
+    <thead>
+        <tr> Product Name</tr>
+        <tr> Unit Price</tr>
+        <tr>Unit in Stock</tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model.Products)
+        {
+            <tr>
+                <td>@i.ProductName</td>
+                <td>@i.UnitPrice</td>
+                <td>@i.UnitsInStock</td>
+                <td>
+                    <a  class="btn btn-xs btn-success" >Add to Cart</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<product-list-pager
+current-page="@Model.CurrentPage"
+current-category="@Model.CurrentCategory"
+page-count="@Model.PageCount"
+page-Size="@Model.PageSize"
+>
+
+</product-list-pager>

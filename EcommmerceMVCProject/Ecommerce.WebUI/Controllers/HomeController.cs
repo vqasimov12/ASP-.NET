@@ -4,11 +4,11 @@ namespace Ecommerce.WebUI.Controllers
 {
     public class HomeController : Controller
     {
-        public string Index()
+        public IActionResult Index()
         {
             HttpContext.Session.SetInt32("age", 25);
             HttpContext.Session.SetString("Name", "Jhon Soprano");
-            return "Session Created";
+            return View();
         }
 
         public string GetSession()
