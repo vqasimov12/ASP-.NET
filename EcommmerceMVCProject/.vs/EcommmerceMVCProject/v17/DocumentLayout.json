@@ -1,30 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\",
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\shared\\components\\categorylist\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\ecommmercemvcproject\\ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\models\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\categorylistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\taghelpers\\pagingtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\taghelpers\\pagingtaghelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\models\\productlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\ecommmercemvcproject\\ecommerce.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,84 +18,40 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Default.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "RelativeToolTip": "Ecommerce.WebUI\\Views\\Shared\\Components\\CategoryList\\Default.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABRAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T08:09:59.665Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CategoryListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Models\\CategoryListViewModel.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Models\\CategoryListViewModel.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Models\\CategoryListViewModel.cs",
-              "RelativeToolTip": "Ecommerce.WebUI\\Models\\CategoryListViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T08:09:54.84Z",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Ecommerce.WebUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\appsettings.json",
+              "RelativeToolTip": "Ecommerce.WebUI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-30T08:22:16.107Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PagingTagHelper.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
-              "RelativeToolTip": "Ecommerce.WebUI\\TagHelpers\\PagingTagHelper.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAgwAwAAAArAAAA",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\Program.cs",
+              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\EcommmerceMVCProject\\Ecommerce.WebUI\\Program.cs",
+              "RelativeToolTip": "Ecommerce.WebUI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:57:55.362Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ProductListViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "RelativeToolTip": "Ecommerce.WebUI\\Models\\ProductListViewModel.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T07:41:44.641Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Product\\Index.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Views\\Product\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Product\\Index.cshtml",
-              "RelativeToolTip": "Ecommerce.WebUI\\Views\\Product\\Index.cshtml",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAACAAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-29T06:57:37.754Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Ecommerce.WebUI\\Controllers\\ProductController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-29T06:55:06.24Z",
+              "WhenOpened": "2025-01-30T08:21:12.868Z",
               "EditorCaption": ""
             }
           ]

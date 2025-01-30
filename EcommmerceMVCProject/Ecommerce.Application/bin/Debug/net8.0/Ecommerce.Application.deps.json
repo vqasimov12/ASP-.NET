@@ -923,7 +923,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
         },
         "runtime": {
-          "Ecommerce.DataAccess.dll": {}
+          "Ecommerce.DataAccess.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Ecommerce.Domain/1.0.0": {
@@ -932,7 +935,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
         },
         "runtime": {
-          "Ecommerce.Domain.dll": {}
+          "Ecommerce.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       },
       "Ecommerce.Repository/1.0.0": {
@@ -942,7 +948,10 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
         },
         "runtime": {
-          "Ecommerce.Repository.dll": {}
+          "Ecommerce.Repository.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

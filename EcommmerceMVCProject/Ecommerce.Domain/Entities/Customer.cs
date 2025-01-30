@@ -1,9 +1,10 @@
-﻿using System;
+﻿using Ecommerce.Domain.Abstracts;
+using System;
 using System.Collections.Generic;
 
 namespace Ecommerce.Domain.Entities;
 
-public partial class Customer
+public partial class Customer:IEntity
 {
     public string CustomerId { get; set; } = null!;
 

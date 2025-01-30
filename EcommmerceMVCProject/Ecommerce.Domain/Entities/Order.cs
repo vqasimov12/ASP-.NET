@@ -1,9 +1,10 @@
-﻿using System;
+﻿using Ecommerce.Domain.Abstracts;
+using System;
 using System.Collections.Generic;
 
 namespace Ecommerce.Domain.Entities;
 
-public partial class Order
+public partial class Order:IEntity
 {
     public int OrderId { get; set; }
 
