@@ -15,6 +15,8 @@ builder.Services.AddDbContext<NortWindDbContext>(opt =>
     opt.UseSqlServer(conn);
 });
 
+builder.Services.AddSingleton<IHttpContextAccessor,HttpContextAccessor>();
+
 builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
 builder.Services.AddScoped<ICategoryService, CategoryServic>();
 builder.Services.AddScoped<IProductService, ProductService>();
@@ -46,6 +48,6 @@ app.UseAuthorization();
 app.UseSession();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Product}/{action=Index}/{id?}");
 
 app.Run();

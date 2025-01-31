@@ -921,10 +921,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
         },
         "runtime": {
-          "Ecommerce.Domain.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ecommerce.Domain.dll": {}
         }
       },
       "Ecommerce.Repository/1.0.0": {
@@ -934,10 +931,7 @@
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0"
         },
         "runtime": {
-          "Ecommerce.Repository.dll": {
-            "assemblyVersion": "1.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Ecommerce.Repository.dll": {}
         }
       }
     }

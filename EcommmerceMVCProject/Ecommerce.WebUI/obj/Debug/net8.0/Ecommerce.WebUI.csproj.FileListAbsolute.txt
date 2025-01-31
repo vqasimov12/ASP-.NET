@@ -292,3 +292,4 @@ C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\Ec
 C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.WebUI\obj\Debug\net8.0\Ecommerc.C195CDB1.Up2Date
 C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.WebUI\obj\Debug\net8.0\Ecommerce.WebUI.genruntimeconfig.cache
 C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.WebUI\obj\Debug\net8.0\ref\Ecommerce.WebUI.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.WebUI\bin\Debug\net8.0\Newtonsoft.Json.dll
