@@ -25,18 +25,31 @@ public class ProductController(IProductService productService, ICategoryService 
     }
 
     [HttpGet]
-    public IActionResult Add()
+    public IActionResult Add(int id = -1)
     {
         var model = new ProductAddViewModel();
-        model.Product = new Domain.Entities.Product();
         model.Categories = _categoryServide.GetAll();
+        if (id != -1)
+            model.Product = _productService.GetById(id);
+        else
+            model.Product = new Domain.Entities.Product();
         return View(model);
     }
 
     [HttpPost]
     public IActionResult Add(ProductAddViewModel model)
     {
-        _productService.Add(model.Product);
+        var a = _productService.GetById(model.Product.ProductId);
+        if (a != null)
+            _productService.Update(model.Product);
+        else
+            _productService.Add(model.Product);
+        return Redirect("/product/Index");
+    }
+
+    public IActionResult Delete(int id)
+    {
+        _productService.Delete(id);
         return Redirect("/product/Index");
     }
 }

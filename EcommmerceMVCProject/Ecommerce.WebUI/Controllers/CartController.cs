@@ -10,7 +10,6 @@ public class CartController(ICartSessionService sessionService, IProductService 
 
     public IActionResult Index()
     {
-
         return View();
     }
 }
