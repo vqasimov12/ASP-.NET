@@ -1,7 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Ecommerce.WebUI.Models;
-public class ShoppingDetails
+namespace Ecommerce.Domain.Models;
+public class ShippingDetails
 {
     public required string Firstname { get; set; }
     public required string Lastname { get; set; }

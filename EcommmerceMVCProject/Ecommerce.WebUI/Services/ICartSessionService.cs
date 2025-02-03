@@ -1,4 +1,4 @@
-﻿using Ecommerce.WebUI.Models;
+﻿using Ecommerce.Domain.Models;
 
 namespace Ecommerce.WebUI.Services;
 public interface ICartSessionService

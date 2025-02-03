@@ -1,5 +1,5 @@
-﻿using Ecommerce.WebUI.Extensions;
-using Ecommerce.WebUI.Models;
+﻿using Ecommerce.Domain.Models;
+using Ecommerce.WebUI.Extensions;
 
 namespace Ecommerce.WebUI.Services;
 
@@ -19,4 +19,6 @@ public class CartSessionService(IHttpContextAccessor contextAccessor) : ICartSes
     }
 
     public void SetCart(Cart cart) => _contextAccessor.HttpContext.Session.SetObject("cart", cart);
+
+   
 }

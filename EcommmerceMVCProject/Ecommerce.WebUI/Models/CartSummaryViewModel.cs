@@ -1,4 +1,5 @@
-﻿using Ecommerce.WebUI.Models;
+﻿using Ecommerce.Domain.Models;
+using Ecommerce.WebUI.Models;
 
 namespace Ecommerce.WebUI;
 

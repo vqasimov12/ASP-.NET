@@ -15,5 +15,5 @@ public class CartService : ICartService
     }
 
     public List<CartLine> List(Cart cart) => cart.CartLines;
-    public void RemoveFromCart(Cart cart, Product product) => cart.CartLines.Remove(cart.CartLines.FirstOrDefault(x => x.Product.ProductId == product.ProductId)!);
+    public void RemoveFromCart(Cart cart, int productId) => cart.CartLines.Remove(cart.CartLines.FirstOrDefault(x => x.Product.ProductId == productId)!);
 }

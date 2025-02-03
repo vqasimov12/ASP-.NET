@@ -7,32 +7,12 @@
       "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\viewcomponents\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\viewcomponents\\cartsummaryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8E8B1065-0FA3-4EEC-A1CD-751E89E75E6D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.domain\\models\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E8B1065-0FA3-4EEC-A1CD-751E89E75E6D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\models\\shippingdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053A26A9-6CCA-48F3-B932-65C65883199B}|Ecommerce.Application\\Ecommerce.Application.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.application\\concrete\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053A26A9-6CCA-48F3-B932-65C65883199B}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\concrete\\cartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\services\\cartsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\services\\cartsessionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{053A26A9-6CCA-48F3-B932-65C65883199B}|Ecommerce.Application\\Ecommerce.Application.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.application\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{053A26A9-6CCA-48F3-B932-65C65883199B}|Ecommerce.Application\\Ecommerce.Application.csproj|solutionrelative:ecommerce.application\\abstract\\icartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E8B1065-0FA3-4EEC-A1CD-751E89E75E6D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E8B1065-0FA3-4EEC-A1CD-751E89E75E6D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8E8B1065-0FA3-4EEC-A1CD-751E89E75E6D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.domain\\models\\cartline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8E8B1065-0FA3-4EEC-A1CD-751E89E75E6D}|Ecommerce.Domain\\Ecommerce.Domain.csproj|solutionrelative:ecommerce.domain\\models\\cartline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\ecommmercemvcproject\\ecommerce.webui\\views\\cart\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{412A9A09-0533-4768-8091-53F30FECE54E}|Ecommerce.WebUI\\Ecommerce.WebUI.csproj|solutionrelative:ecommerce.webui\\views\\cart\\complete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Complete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Cart\\Complete.cshtml",
+              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Views\\Cart\\Complete.cshtml",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Cart\\Complete.cshtml",
+              "RelativeToolTip": "Ecommerce.WebUI\\Views\\Cart\\Complete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-02-03T07:49:45.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ShippingDetails.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Domain\\Models\\ShippingDetails.cs",
+              "RelativeDocumentMoniker": "Ecommerce.Domain\\Models\\ShippingDetails.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Domain\\Models\\ShippingDetails.cs",
+              "RelativeToolTip": "Ecommerce.Domain\\Models\\ShippingDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T07:37:49.878Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -52,100 +58,9 @@
               "RelativeDocumentMoniker": "Ecommerce.WebUI\\Controllers\\CartController.cs",
               "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Controllers\\CartController.cs",
               "RelativeToolTip": "Ecommerce.WebUI\\Controllers\\CartController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAowEYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:56:42.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CartSummaryViewComponent.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\ViewComponents\\CartSummaryViewComponent.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\ViewComponents\\CartSummaryViewComponent.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\ViewComponents\\CartSummaryViewComponent.cs",
-              "RelativeToolTip": "Ecommerce.WebUI\\ViewComponents\\CartSummaryViewComponent.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:50:09.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Ecommerce.WebUI\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABwAAAAuAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-01-31T07:43:04.094Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CartSessionService.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Services\\CartSessionService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.WebUI\\Services\\CartSessionService.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.WebUI\\Services\\CartSessionService.cs",
-              "RelativeToolTip": "Ecommerce.WebUI\\Services\\CartSessionService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAZAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:38:39.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CartService.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Application\\Concrete\\CartService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Application\\Concrete\\CartService.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Application\\Concrete\\CartService.cs",
-              "RelativeToolTip": "Ecommerce.Application\\Concrete\\CartService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:31:20.217Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ICartService.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Application\\Abstract\\ICartService.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Application\\Abstract\\ICartService.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Application\\Abstract\\ICartService.cs",
-              "RelativeToolTip": "Ecommerce.Application\\Abstract\\ICartService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:29:41.824Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CartLine.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Domain\\Models\\CartLine.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Domain\\Models\\CartLine.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Domain\\Models\\CartLine.cs",
-              "RelativeToolTip": "Ecommerce.Domain\\Models\\CartLine.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:28:48.597Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Domain\\Models\\Cart.cs",
-              "RelativeDocumentMoniker": "Ecommerce.Domain\\Models\\Cart.cs",
-              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\EcommmerceMVCProject\\Ecommerce.Domain\\Models\\Cart.cs",
-              "RelativeToolTip": "Ecommerce.Domain\\Models\\Cart.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T07:28:42.918Z",
+              "WhenOpened": "2025-02-03T07:31:15.796Z",
               "EditorCaption": ""
             }
           ]
