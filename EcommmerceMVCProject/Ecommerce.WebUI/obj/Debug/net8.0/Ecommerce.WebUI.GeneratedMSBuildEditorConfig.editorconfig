@@ -18,6 +18,14 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.WebUI
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/Qasim_wu20/Desktop/ASP.NET/EcommmerceMVCProject/Ecommerce.WebUI/Views/Account/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Qasim_wu20/Desktop/ASP.NET/EcommmerceMVCProject/Ecommerce.WebUI/Views/Account/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjb3VudFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/Qasim_wu20/Desktop/ASP.NET/EcommmerceMVCProject/Ecommerce.WebUI/Views/Cart/Complete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FydFxDb21wbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

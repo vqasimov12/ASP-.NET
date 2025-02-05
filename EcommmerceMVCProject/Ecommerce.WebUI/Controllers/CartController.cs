@@ -63,13 +63,12 @@ public class CartController(ICartSessionService sessionService, ICartService car
     [HttpPost]
     public IActionResult Complete(ShippingDetailsViewModel shippingDetailsViewModel)
     {
-        if(!ModelState.IsValid)
-        return View();
+        if (!ModelState.IsValid)
+            return View();
         else
         {
-            TempData.Add("message", string.Format("Thank you {0}, your order is in progress",shippingDetailsViewModel.ShippingDetails.Firstname));
-
-            return RedirectToAction("Index","Product");
+            TempData.Add("message", string.Format("Thank you {0}, your order is in progress", shippingDetailsViewModel.ShippingDetails.Firstname));
+            return RedirectToAction("Index", "Product");
         }
     }
 }

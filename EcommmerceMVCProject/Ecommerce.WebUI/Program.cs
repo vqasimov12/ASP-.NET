@@ -2,8 +2,9 @@ using Ecommerce.Application.Abstract;
 using Ecommerce.Application.Concrete;
 using Ecommerce.DataAccess.Abstract;
 using Ecommerce.DataAccess.Concrete.EFEntityFramework;
-using Ecommerce.DataAccess.Context;
+using Ecommerce.WebUI.Entities;
 using Ecommerce.WebUI.Services;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -11,12 +12,17 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 builder.Services.AddSession();
 var conn = builder.Configuration.GetConnectionString("DefaultConnection");
-builder.Services.AddDbContext<NortWindDbContext>(opt =>
-{
-    opt.UseSqlServer(conn);
-});
+//builder.Services.AddDbContext<NortWindDbContext>(opt =>
+//{
+//    opt.UseSqlServer(conn);
+//});
 
-builder.Services.AddSingleton<IHttpContextAccessor,HttpContextAccessor>();
+
+builder.Services.AddDbContext<CustomIdentityDbContext>(options => options.UseSqlServer(conn));
+
+builder.Services.AddIdentity<CustomIdentityUser, CustomIdentityRole>().AddEntityFrameworkStores<CustomIdentityDbContext>().AddDefaultTokenProviders();
+
+builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 
 builder.Services.AddScoped<ICategoryDal, EfCategoryDal>();
 builder.Services.AddScoped<ICategoryService, CategoryServic>();
@@ -30,8 +36,8 @@ builder.Services.AddScoped<ISupplierService, SupplierService>();
 builder.Services.AddScoped<ISupplierDal, EFSupplierDal>();
 builder.Services.AddScoped<IEmployeeService, EmployeeService>();
 builder.Services.AddScoped<IEmployeeDal, EFEmployeeDal>();
-builder.Services.AddSingleton<ICartSessionService,CartSessionService>();
-builder.Services.AddScoped<ICartService,CartService>();
+builder.Services.AddSingleton<ICartSessionService, CartSessionService>();
+builder.Services.AddScoped<ICartService, CartService>();
 
 var app = builder.Build();
 
@@ -50,6 +56,6 @@ app.UseAuthorization();
 app.UseSession();
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Product}/{action=Index}/{id?}");
+    pattern: "{controller=Account}/{action=Register}/{id?}");
 
 app.Run();
