@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\WebAPI_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62A35A-F63E-4D5B-84E7-4E738397EC8E}|Dal.SQLServer\\Dal.SQLServer.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\web api\\webapi_project\\dal.sqlserver\\unitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62A35A-F63E-4D5B-84E7-4E738397EC8E}|Dal.SQLServer\\Dal.SQLServer.csproj|solutionrelative:dal.sqlserver\\unitofwork\\sqlunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62A35A-F63E-4D5B-84E7-4E738397EC8E}|Dal.SQLServer\\Dal.SQLServer.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\web api\\webapi_project\\dal.sqlserver\\infrastructure\\sqlcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62A35A-F63E-4D5B-84E7-4E738397EC8E}|Dal.SQLServer\\Dal.SQLServer.csproj|solutionrelative:dal.sqlserver\\infrastructure\\sqlcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C62A35A-F63E-4D5B-84E7-4E738397EC8E}|Dal.SQLServer\\Dal.SQLServer.csproj|c:\\users\\qasim_wu20\\desktop\\asp.net\\web api\\webapi_project\\dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C62A35A-F63E-4D5B-84E7-4E738397EC8E}|Dal.SQLServer\\Dal.SQLServer.csproj|solutionrelative:dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SQLCategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\WebAPI_Project\\Dal.SQLServer\\Infrastructure\\SQLCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Dal.SQLServer\\Infrastructure\\SQLCategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\WebAPI_Project\\Dal.SQLServer\\Infrastructure\\SQLCategoryRepository.cs",
+              "RelativeToolTip": "Dal.SQLServer\\Infrastructure\\SQLCategoryRepository.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwDAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T07:03:27.264Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BaseSQLRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\WebAPI_Project\\Dal.SQLServer\\Infrastructure\\BaseSQLRepository.cs",
+              "RelativeDocumentMoniker": "Dal.SQLServer\\Infrastructure\\BaseSQLRepository.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\WebAPI_Project\\Dal.SQLServer\\Infrastructure\\BaseSQLRepository.cs",
+              "RelativeToolTip": "Dal.SQLServer\\Infrastructure\\BaseSQLRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:58:15.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SQLUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\WebAPI_Project\\Dal.SQLServer\\UnitOfWork\\SQLUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Dal.SQLServer\\UnitOfWork\\SQLUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\WebAPI_Project\\Dal.SQLServer\\UnitOfWork\\SQLUnitOfWork.cs",
+              "RelativeToolTip": "Dal.SQLServer\\UnitOfWork\\SQLUnitOfWork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAACLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T06:54:46.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
