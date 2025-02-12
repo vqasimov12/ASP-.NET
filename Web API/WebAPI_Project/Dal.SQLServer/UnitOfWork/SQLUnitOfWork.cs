@@ -8,16 +8,10 @@ namespace Dal.SQLServer.UnitOfWork;
 public class SQLUnitOfWork(string connectionString, AppDbContext appDbContext) : IUnitOfWork
 {
     private readonly string _connectionString = connectionString;
-    private readonly AppDbContext _appDbContext = appDbContext;
-
+    private readonly AppDbContext _appDbContext = appDbContext; 
     public SQLCategoryRepository _sqlCategoryRepository;
-
-
 
     public ICategoryRepository CategoryRepository => _sqlCategoryRepository ?? new SQLCategoryRepository(_connectionString, _appDbContext);
 
-    public Task<int> SaveChnages()
-    {
-        throw new NotImplementedException();
-    }
+    public async Task<int> SaveChnages() => await _appDbContext.SaveChangesAsync();
 }
