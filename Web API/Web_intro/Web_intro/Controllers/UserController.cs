@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Web_intro.DTOs;
+using Web_intro.DTOs.UserDTOs;
 using Web_intro.Entities;
 
 namespace Web_intro.Controllers;

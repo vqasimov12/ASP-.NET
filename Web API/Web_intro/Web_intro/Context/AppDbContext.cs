@@ -6,6 +6,7 @@ namespace Web_intro.Context;
 public class AppDbContext:DbContext
 {
     public DbSet<Customer>Customers { get; set; }
+    public DbSet<Shipper>Shippers{ get; set; }
 
 
 

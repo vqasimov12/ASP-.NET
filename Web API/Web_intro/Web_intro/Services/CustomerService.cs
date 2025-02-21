@@ -12,7 +12,6 @@ public class CustomerService(ICustomerRepository customerRepository) : ICustomer
     {
         Customer customerCopy = new Customer
         {
-
             CustomerId = customer.CustomerId,
             CompanyName = customer.CustomerName,
         };

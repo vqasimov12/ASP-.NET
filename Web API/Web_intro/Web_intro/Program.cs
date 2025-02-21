@@ -14,7 +14,10 @@ builder.Services.AddSwaggerGen();
 var conn = builder.Configuration.GetConnectionString("DefaultConnection");
 builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(conn));
 builder.Services.AddScoped<ICustomerRepository, CustomerRepository>();
+builder.Services.AddScoped<IShipperRepository, ShipperRepository>();
+
 builder.Services.AddScoped<ICustomerService, CustomerService>();
+builder.Services.AddScoped<IShipperService, ShipperService>();
 
 var app = builder.Build();
 
