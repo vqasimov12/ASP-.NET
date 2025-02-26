@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\Lesson2_MWC.props" />
-</Project>
