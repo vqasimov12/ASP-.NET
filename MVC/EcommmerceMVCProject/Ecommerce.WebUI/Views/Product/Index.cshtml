@@ -1,0 +1,38 @@
+﻿@model ProductListViewModel
+<p>
+    <a href="/product/add" class="btn btn-outline-primary">Create New</a>
+</p>
+
+
+<table class="table ">
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Unit Price</th>
+            <th>Unit in Stock</th>
+            <th>Add</th>
+            <th>Edit</th>
+            <th>Delete</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var i in Model.Products)
+        {
+            <tr>
+                <td>@i.ProductName</td>
+                <td>@i.UnitPrice</td>
+                <td>@i.UnitsInStock</td>
+                <td><a class="btn btn-xs btn-success" asp-action="AddToCart" asp-controller="Cart" asp-route-productId="@i.ProductId" >Add to Cart</a></td>
+                <td><a class="btn btn-primary btn-edit text-white hover:none" asp-action="Add" asp-controller="Product" asp-route-id="@i.ProductId">Edit</a></td>
+                <td><a class="btn btn-primary btn-danger text-white hover:none" asp-action="Delete" asp-controller="Product" asp-route-id="@i.ProductId">Delete</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<product-list-pager current-page="@Model.CurrentPage"
+                    current-category="@Model.CurrentCategory"
+                    page-count="@Model.PageCount"
+                    page-Size="@Model.PageSize">
+
+</product-list-pager>

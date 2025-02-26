@@ -1,0 +1,40 @@
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.deps.json
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.runtimeconfig.json
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.AssemblyInfo.cs
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.sourcelink.json
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\refint\Ecommerce.DataAccess.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.genruntimeconfig.cache
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\ref\Ecommerce.DataAccess.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Repository.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Repository.pdb
+C:\Users\Qasim_wu20\Desktop\ASP.NET\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerc.06B1919B.Up2Date
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.AssemblyInfo.cs
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.sourcelink.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\refint\Ecommerce.DataAccess.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.deps.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.runtimeconfig.json
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.DataAccess.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Domain.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Repository.dll
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Domain.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\bin\Debug\net8.0\Ecommerce.Repository.pdb
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerc.06B1919B.Up2Date
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\Ecommerce.DataAccess.genruntimeconfig.cache
+C:\Users\user\OneDrive - Azerbaijan State Oil and Industry University\Desktop\EcommmerceMVCProject\Ecommerce.DataAccess\obj\Debug\net8.0\ref\Ecommerce.DataAccess.dll
