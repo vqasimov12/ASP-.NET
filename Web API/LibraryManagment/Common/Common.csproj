@@ -6,10 +6,4 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
-  <ItemGroup>
-    <Folder Include="Exceptions\" />
-    <Folder Include="GlobalResponses\" />
-    <Folder Include="Security\" />
-  </ItemGroup>
-
 </Project>

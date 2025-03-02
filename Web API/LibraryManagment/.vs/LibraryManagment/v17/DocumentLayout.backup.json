@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5588713C-9CE8-449F-90F3-86675DB90D1B}|LibraryManagment\\LibraryManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\librarymanagment\\librarymanagment\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5588713C-9CE8-449F-90F3-86675DB90D1B}|LibraryManagment\\LibraryManagment.csproj|solutionrelative:librarymanagment\\controllers\\imagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E1C10B-FBCE-4E0B-A095-8A2342FAF801}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\librarymanagment\\application\\cqrs\\image\\commands\\requests\\uploadimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E1C10B-FBCE-4E0B-A095-8A2342FAF801}|Application\\Application.csproj|solutionrelative:application\\cqrs\\image\\commands\\requests\\uploadimagerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E1C10B-FBCE-4E0B-A095-8A2342FAF801}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\librarymanagment\\application\\cqrs\\image\\handlers\\commandhandlers\\uploadimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E1C10B-FBCE-4E0B-A095-8A2342FAF801}|Application\\Application.csproj|solutionrelative:application\\cqrs\\image\\handlers\\commandhandlers\\uploadimagehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29E1C10B-FBCE-4E0B-A095-8A2342FAF801}|Application\\Application.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\librarymanagment\\application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29E1C10B-FBCE-4E0B-A095-8A2342FAF801}|Application\\Application.csproj|solutionrelative:application\\automapper\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UploadImageHandler.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\Application\\CQRS\\Image\\Handlers\\CommandHandlers\\UploadImageHandler.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Image\\Handlers\\CommandHandlers\\UploadImageHandler.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\Application\\CQRS\\Image\\Handlers\\CommandHandlers\\UploadImageHandler.cs",
+              "RelativeToolTip": "Application\\CQRS\\Image\\Handlers\\CommandHandlers\\UploadImageHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:59:50.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadImageRequest.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\Application\\CQRS\\Image\\Commands\\Requests\\UploadImageRequest.cs",
+              "RelativeDocumentMoniker": "Application\\CQRS\\Image\\Commands\\Requests\\UploadImageRequest.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\Application\\CQRS\\Image\\Commands\\Requests\\UploadImageRequest.cs",
+              "RelativeToolTip": "Application\\CQRS\\Image\\Commands\\Requests\\UploadImageRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:55:49.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ImageController.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\LibraryManagment\\Controllers\\ImageController.cs",
+              "RelativeDocumentMoniker": "LibraryManagment\\Controllers\\ImageController.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\LibraryManagment\\Controllers\\ImageController.cs*",
+              "RelativeToolTip": "LibraryManagment\\Controllers\\ImageController.cs*",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwC4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T06:54:01.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Application\\AutoMapper\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\LibraryManagment\\Application\\AutoMapper\\MappingProfile.cs",
+              "RelativeToolTip": "Application\\AutoMapper\\MappingProfile.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-01T18:15:32.892Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
