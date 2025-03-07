@@ -14,13 +14,18 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
     public SqlUserRepository _sqlUserRepository;
     public SqlProductRepository _sqlProductRepository;
     public SqlCustomerRepository _sqlCustomerRepository;
+    public SqlRefreshTokenRepository _sqlRefreshTokenRepository;
 
     public ICategoryRepository CategoryRepository => _sqlCategoryRepository ?? new SqlCategoryRepository(_connectionString, _context);
+
     public IUserRepository UserRepository => _sqlUserRepository ?? new SqlUserRepository(_context);
 
     public IProductRepository ProductRepository => _sqlProductRepository ?? new SqlProductRepository(connectionString, _context);
 
     public ICustomerRepository CustomerRepository => _sqlCustomerRepository ?? new SqlCustomerRepository(connectionString, _context);
 
+    public IRefreshTokenRepository RefreshTokenRepository => _sqlRefreshTokenRepository ?? new SqlRefreshTokenRepository(context);
+
     public async Task<int> SaveChanges() => await _context.SaveChangesAsync();
+
 }

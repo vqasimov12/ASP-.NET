@@ -8,5 +8,6 @@ public interface IUnitOfWork
     public IUserRepository UserRepository { get;}
     public IProductRepository ProductRepository { get; }
     public ICustomerRepository CustomerRepository { get; }
+    public IRefreshTokenRepository RefreshTokenRepository { get; }
     Task<int> SaveChanges();
 }
