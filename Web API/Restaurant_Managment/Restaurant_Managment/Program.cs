@@ -1,7 +1,7 @@
 using Application;
 using DAL.SqlServer;
 using RestaurantManagement.Middlewares;
-using RestaurantManagment.Middlewares;
+using RestaurantManagment.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,6 +10,9 @@ builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+
+builder.Services.AddAuthenticationService (builder.Configuration);
+
 
 var conn = builder.Configuration.GetConnectionString("myconn");
 
@@ -29,7 +32,7 @@ app.UseHttpsRedirection();
 app.UseAuthorization();
 
 app.UseMiddleware<ExceptionHandlerMiddleware>();
-app.UseMiddleware<RateLimitMiddleware>(2,TimeSpan.FromMinutes(1));
+//app.UseMiddleware<RateLimitMiddleware>(2,TimeSpan.FromMinutes(1));
 
 
 app.MapControllers();

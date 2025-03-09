@@ -29,7 +29,11 @@ public class UserController(ISender sender) : ControllerBase
         return Ok(await _sender.Send(request));
     }
 
-    //[HttpPut]
-    //public async Task<IActionResult> Update([FromBody] Update.Command request) => Ok(await _sender.Send(request));
+    [HttpPut]
+    public async Task<IActionResult> Update([FromQuery] Update.Command request) => Ok(await _sender.Send(request));
+
+
+    [HttpPost("Login")]
+    public async Task<IActionResult> Login([FromBody] Login.LoginRequest request) => Ok(await _sender.Send(request));
 
 }

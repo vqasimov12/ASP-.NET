@@ -178,3 +178,5 @@ C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Restaurant_Mana
 C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Restaurant_Managment\obj\Debug\net8.0\RestaurantManagment.pdb
 C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Restaurant_Managment\obj\Debug\net8.0\RestaurantManagment.genruntimeconfig.cache
 C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Restaurant_Managment\obj\Debug\net8.0\ref\RestaurantManagment.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Restaurant_Managment\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Qasim_wu20\Desktop\ASP.NET\Web API\Restaurant_Managment\Restaurant_Managment\bin\Debug\net8.0\Microsoft.Bcl.Memory.dll
