@@ -8,9 +8,6 @@
 
   <ItemGroup>
     <Folder Include="CQRS\Image\Commands\Responses\" />
-    <Folder Include="CQRS\Image\Handlers\QueryHandlers\" />
-    <Folder Include="CQRS\Image\Queries\Requests\" />
-    <Folder Include="CQRS\Image\Queries\Responses\" />
   </ItemGroup>
 
   <ItemGroup>
@@ -20,6 +17,8 @@
     <PackageReference Include="MediatR" Version="11.1.0" />
     <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.1.0" />
     <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.0" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="2.3.0" />
   </ItemGroup>
 
   <ItemGroup>
