@@ -1,8 +1,19 @@
 {
   "Version": 1,
-<<<<<<< HEAD
   "WorkspaceRootPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\",
   "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\restaurant_managment\\restaurant_managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|solutionrelative:restaurant_managment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\restaurant_managment\\restaurant_managment\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|solutionrelative:restaurant_managment\\middlewares\\ratelimitmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\restaurant_managment\\restaurant_managment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|solutionrelative:restaurant_managment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
     {
       "AbsoluteMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\restaurant_managment\\dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\infrastructure\\sqluserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -22,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\restaurant_managment\\dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|solutionrelative:dal.sqlserver\\infrastructure\\basesqlrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\restaurant_managment\\restaurant_managment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AB375EC9-0F94-4F23-B7F2-05C8FC97F862}|Restaurant_Managment\\RestaurantManagment.csproj|solutionrelative:restaurant_managment\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B380DFD-71B8-45B2-8A62-2C3A37608B20}|DAL.SqlServer\\DAL.SqlServer.csproj|c:\\users\\user\\onedrive - azerbaijan state oil and industry university\\desktop\\new folder\\new folder\\asp-.net\\web api\\restaurant_managment\\dal.sqlserver\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -52,20 +59,28 @@
       "RelativeMoniker": "D:0:0:{DFF7B6A5-861D-4C15-918F-1222F3FE5435}|Application\\Application.csproj|solutionrelative:application\\cqrs\\categories\\validator\\createcategoryvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
-=======
-  "WorkspaceRootPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\",
-  "Documents": [],
->>>>>>> 654b611234351afce5fd3ad7e771dcc16af5e0c7
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-<<<<<<< HEAD
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RateLimitMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\Middlewares\\RateLimitMiddleware.cs",
+              "RelativeDocumentMoniker": "Restaurant_Managment\\Middlewares\\RateLimitMiddleware.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\Middlewares\\RateLimitMiddleware.cs*",
+              "RelativeToolTip": "Restaurant_Managment\\Middlewares\\RateLimitMiddleware.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:33:24.473Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
@@ -77,19 +92,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\Program.cs",
+              "RelativeDocumentMoniker": "Restaurant_Managment\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\Program.cs",
+              "RelativeToolTip": "Restaurant_Managment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T17:33:00.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "SqlUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
               "RelativeDocumentMoniker": "DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
               "RelativeToolTip": "DAL.SqlServer\\Infrastructure\\SqlUserRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBoAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:40:22.739Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T16:40:22.739Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "SqlCategoryRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\Infrastructure\\SqlCategoryRepository.cs",
               "RelativeDocumentMoniker": "DAL.SqlServer\\Infrastructure\\SqlCategoryRepository.cs",
@@ -97,12 +124,11 @@
               "RelativeToolTip": "DAL.SqlServer\\Infrastructure\\SqlCategoryRepository.cs",
               "ViewState": "AgIAADkAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:40:12.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T16:40:12.553Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "BaseSqlRepository.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
               "RelativeDocumentMoniker": "DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
@@ -110,12 +136,11 @@
               "RelativeToolTip": "DAL.SqlServer\\Infrastructure\\BaseSqlRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:15:38.968Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T16:15:38.968Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "SqlUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork.cs",
               "RelativeDocumentMoniker": "DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork.cs",
@@ -123,12 +148,11 @@
               "RelativeToolTip": "DAL.SqlServer\\UnitOfWork\\SqlUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T16:13:49.776Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T16:13:49.776Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Common\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "Repository\\Common\\IUnitOfWork.cs",
@@ -136,12 +160,11 @@
               "RelativeToolTip": "Repository\\Common\\IUnitOfWork.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:33:34.356Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:33:34.356Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "DAL.SqlServer\\Context\\AppDbContext.cs",
@@ -149,12 +172,11 @@
               "RelativeToolTip": "DAL.SqlServer\\Context\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T12:32:22.802Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T12:32:22.802Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "DependencyInjections.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\DependencyInjections.cs",
               "RelativeDocumentMoniker": "Application\\DependencyInjections.cs",
@@ -166,7 +188,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "CreateCategoryHandler.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\CQRS\\Categories\\Handlers\\CommandHandlers\\CreateCategoryHandler.cs",
               "RelativeDocumentMoniker": "Application\\CQRS\\Categories\\Handlers\\CommandHandlers\\CreateCategoryHandler.cs",
@@ -178,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Register.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\CQRS\\Users\\Handlers\\Register.cs",
               "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Handlers\\Register.cs",
@@ -190,7 +212,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "RegisterUserValidator.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\CQRS\\Users\\Validator\\RegisterUserValidator.cs",
               "RelativeDocumentMoniker": "Application\\CQRS\\Users\\Validator\\RegisterUserValidator.cs",
@@ -202,7 +224,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "CreateCategoryValidator.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\CQRS\\Categories\\Validator\\CreateCategoryValidator.cs",
               "RelativeDocumentMoniker": "Application\\CQRS\\Categories\\Validator\\CreateCategoryValidator.cs",
@@ -214,13 +236,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "Restaurant_Managment\\Controllers\\UserController.cs",
               "ToolTip": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\Controllers\\UserController.cs",
               "RelativeToolTip": "Restaurant_Managment\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAABAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-01T11:15:24.982Z",
               "EditorCaption": ""
@@ -228,9 +250,6 @@
           ]
         }
       ]
-=======
-      "DocumentGroups": []
->>>>>>> 654b611234351afce5fd3ad7e771dcc16af5e0c7
     }
   ]
 }

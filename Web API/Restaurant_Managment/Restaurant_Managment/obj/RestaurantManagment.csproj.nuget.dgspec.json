@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj": {}
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj": {
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
-        "packagesPath": "C:\\Users\\Qasim_wu20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Qasim_wu20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,21 +26,20 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj"
               },
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj"
               }
             }
           }
@@ -54,7 +53,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -101,24 +101,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj": {
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\Qasim_wu20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Qasim_wu20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -127,7 +127,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -145,7 +144,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -166,24 +166,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj": {
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj",
         "projectName": "DAL.SqlServer",
-        "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj",
-        "packagesPath": "C:\\Users\\Qasim_wu20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Qasim_wu20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -192,18 +192,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
               },
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj"
               }
             }
           }
@@ -217,7 +216,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -252,24 +252,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj",
-        "packagesPath": "C:\\Users\\Qasim_wu20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Qasim_wu20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -278,7 +278,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -296,7 +295,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -317,24 +317,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\Qasim_wu20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Qasim_wu20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -343,15 +343,14 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
               }
             }
           }
@@ -365,7 +364,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -392,24 +392,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj": {
+    "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj",
+        "projectUniqueName": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj",
         "projectName": "RestaurantManagment",
-        "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj",
-        "packagesPath": "C:\\Users\\Qasim_wu20\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\obj\\",
+        "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj",
+        "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Qasim_wu20\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -418,18 +418,17 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj"
               },
-              "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj": {
-                "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj"
+              "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj": {
+                "projectPath": "C:\\Users\\user\\OneDrive - Azerbaijan State Oil and Industry University\\Desktop\\New folder\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj"
               }
             }
           }
@@ -443,7 +442,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.100"
       },
       "frameworks": {
         "net8.0": {
@@ -477,7 +477,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
