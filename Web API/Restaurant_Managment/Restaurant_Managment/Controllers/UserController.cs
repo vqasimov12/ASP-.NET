@@ -1,5 +1,6 @@
 ﻿using Application.CQRS.Users.Handlers;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using static Application.CQRS.Users.Handlers.GetById;
 using static Application.CQRS.Users.Handlers.Register;
@@ -8,6 +9,7 @@ namespace RestaurantManagement.Controllers;
 
 [Route("api/[controller]")]
 [ApiController]
+[Authorize]
 public class UserController(ISender sender) : ControllerBase
 {
     private readonly ISender _sender = sender;
@@ -20,6 +22,7 @@ public class UserController(ISender sender) : ControllerBase
     }
 
     [HttpPost]
+    [Authorize (Roles ="Admin")]
     public async Task<IActionResult> Register([FromBody] Command request) => Ok(await _sender.Send(request));
 
     [HttpDelete]
@@ -32,8 +35,7 @@ public class UserController(ISender sender) : ControllerBase
     [HttpPut]
     public async Task<IActionResult> Update([FromQuery] Update.Command request) => Ok(await _sender.Send(request));
 
-
     [HttpPost("Login")]
+    [AllowAnonymous]
     public async Task<IActionResult> Login([FromBody] Login.LoginRequest request) => Ok(await _sender.Send(request));
-
-}
+ }

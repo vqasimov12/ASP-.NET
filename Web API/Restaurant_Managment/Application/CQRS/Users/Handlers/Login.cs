@@ -4,6 +4,7 @@ using Common.Exceptions;
 using Common.GlobalResopnses.Generics;
 using Common.Security;
 using Domain.Entites;
+using Domain.Enums;
 using MediatR;
 using Microsoft.Extensions.Configuration;
 using Repository.Common;
@@ -36,7 +37,8 @@ public class Login
                 new Claim(ClaimTypes.NameIdentifier, user.Id.ToString()),
                 new Claim(ClaimTypes.Name, user.Name),
                 new Claim(ClaimTypes.Email, user.Email),
-                new Claim(ClaimTypes.MobilePhone, user.Phone)
+                new Claim(ClaimTypes.MobilePhone, user.Phone),
+                new Claim(ClaimTypes.Role,user.UserRole.ToString())
                 ];
 
             JwtSecurityToken jwtToken = TokenService.CreateToken(authClaims, configuration);
