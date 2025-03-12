@@ -1,7 +1,9 @@
 using Application;
+using Application.Security;
 using DAL.SqlServer;
 using Microsoft.OpenApi.Models;
 using RestaurantManagement.Middlewares;
+using RestaurantManagment.Infrastructure;
 using RestaurantManagment.Middlewares;
 using RestaurantManagment.Services;
 
@@ -38,6 +40,7 @@ builder.Services.AddSwaggerGen(c =>
 });
 
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
+builder.Services.AddScoped<IUserContext, HttpUserContext>();
 
 builder.Services.AddAuthenticationService (builder.Configuration);
 

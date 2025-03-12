@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Y+Ue23166OlV0vOkdRDGYe2goMXFq/bpU8CWSiClRg6jVBcNTKsVHdo1HqGuidzum9Td25YhbTOZtJRPHW+vxg==",
+  "dgSpecHash": "Uhkfa2+Q+WxqWyoDST+mxJ0OmiuxQhVS8RT5rkWYxbfAbzKZqI2E5jmTG+JgEm+uDM5wO9ckgiEYmsfDWqJxuw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
   "expectedPackageFiles": [
@@ -21,6 +21,8 @@
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\microsoft.identitymodel.logging\\8.6.0\\microsoft.identitymodel.logging.8.6.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.6.0\\microsoft.identitymodel.tokens.8.6.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Qasim_wu20\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\Qasim_wu20\\.nuget\\packages\\serilog.sinks.file\\6.0.0\\serilog.sinks.file.6.0.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
