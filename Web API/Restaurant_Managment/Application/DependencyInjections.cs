@@ -1,4 +1,5 @@
 ﻿using Application.AutoMapper;
+using Application.Patterns;
 using Application.PipelineBehaviors;
 using Application.Services.BackgroundServices;
 using Application.Services.LogService;
@@ -39,7 +40,8 @@ public static class DependencyInjections
         services.AddMediatR(Assembly.GetExecutingAssembly());
         services.AddTransient(typeof(IPipelineBehavior<,>), typeof(ValidationPipelineBehavior<,>));
         services.AddHostedService<DeleteUserBackgroundService>();
-
+        services.AddScoped<ICarStrategyPattern, CarStrategyPattern>();
+        services.AddScoped<ICarStrategy, CarStrategy>();
 
         return services;
     }

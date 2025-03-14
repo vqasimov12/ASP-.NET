@@ -26,6 +26,8 @@ public class SqlUnitOfWork(string connectionString, AppDbContext context) : IUni
 
     public IRefreshTokenRepository RefreshTokenRepository => _sqlRefreshTokenRepository ?? new SqlRefreshTokenRepository(context);
 
+    public ICarRepository CarRepository => new SqlCarRepository(context);
+
     public async Task<int> SaveChanges() => await _context.SaveChangesAsync();
 
 }
