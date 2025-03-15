@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2UO64JJ5Ita7D4cBHhAIguWWnWHyIRP3sowdOUP8hqmC5yy/qKdYlN5vkOs0FdF2DiV14OBhriL0KDYDGQW7Hg==",
+  "dgSpecHash": "2WyYd6MGUBPNMirwOPlSmOpepQYf8Rb3IXfm7qFzNG5fBbYEr9g2uVmBO8h+HqHa6cXVYHaTP7XShVbsNaA4nA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj",
+  "projectFilePath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\RestaurantManagment.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
@@ -71,12 +71,5 @@
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.4\\system.threading.tasks.extensions.4.5.4.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Restaurant_Managment\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

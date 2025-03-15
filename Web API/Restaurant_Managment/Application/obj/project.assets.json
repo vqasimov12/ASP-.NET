@@ -1255,11 +1255,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Qasim_wu20\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\obj\\",
+      "outputPath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1281,14 +1281,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj": {
-              "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj"
+            "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Common\\Common.csproj"
             },
-            "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
+            "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj"
+            "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Repository\\Repository.csproj"
             }
           }
         }
@@ -1360,13 +1360,5 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EgO+XPy7SaL6BWzo9DPdQDi8IKD5+OQrvuN7s6Pj8ePoxGmaCNiLGRaQEG9Hx/AWfatcuLaq34cLh+ud7scflw==",
+  "dgSpecHash": "yZivpK+J8UsnQrywfKqNwOBRSZpAzYL7kJLNfLFdQYJtkMLaSipo6DgibrSqrJGvrx4LLdj/Uvl0SBcn/j9AQw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj",
+  "projectFilePath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\DAL.SqlServer\\DAL.SqlServer.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",

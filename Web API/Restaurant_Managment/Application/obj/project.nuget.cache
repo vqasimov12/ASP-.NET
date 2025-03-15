@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Uhkfa2+Q+WxqWyoDST+mxJ0OmiuxQhVS8RT5rkWYxbfAbzKZqI2E5jmTG+JgEm+uDM5wO9ckgiEYmsfDWqJxuw==",
+  "dgSpecHash": "JnSEx9b420/+Kbu4JU8NPUQVEHy4yU4NEPrrlX2ReCuYZK9QBxqWCtvM2ND7kv2bCqXqd2vaUNb+wW4v1cPuLQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Qasim_wu20\\Desktop\\New folder\\ASP-.NET\\Web API\\Restaurant_Managment\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\fluentvalidation\\11.11.0\\fluentvalidation.11.11.0.nupkg.sha512",
@@ -29,12 +29,5 @@
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512",
     "C:\\Users\\Qasim_wu20\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.6.0\\system.identitymodel.tokens.jwt.8.6.0.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Qasim_wu20\\Desktop\\ASP.NET\\Web API\\Restaurant_Managment\\Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
-    }
-  ]
+  "logs": []
 }

@@ -54,7 +54,7 @@ public class Login
             var tokenString = new JwtSecurityTokenHandler().WriteToken(jwtToken);
             string refreshTokenString = TokenService.GenerateRefreshToken();
 
-            RefreshToken refreshToken = new()
+            Domain.Entites.RefreshToken refreshToken = new()
             {
                 Token = refreshTokenString,
                 UserId = user.Id,

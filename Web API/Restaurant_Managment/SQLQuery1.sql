@@ -31,8 +31,9 @@ CREATE TABLE [dbo].[Users] (
     [CreatedDate]     DATETIME2(7)   NOT NULL DEFAULT GETDATE(),
     [DeletedDate]     DATETIME2(7)   NULL,
     [UpdatedDate]     DATETIME2(7)   NULL,
-    [IsDeleted]       BIT            NOT NULL DEFAULT 0
-);
+    [IsDeleted]       BIT            NOT NULL DEFAULT 0,
+    [UserRole]        INT            NOT NULL
+ );
 GO
 
 CREATE TABLE [dbo].[Products] (

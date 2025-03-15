@@ -1,8 +1,10 @@
 ﻿using Application.CQRS.Users.Handlers;
 using MediatR;
 using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity.Data;
 using Microsoft.AspNetCore.Mvc;
 using static Application.CQRS.Users.Handlers.GetById;
+using static Application.CQRS.Users.Handlers.RefreshToken;
 using static Application.CQRS.Users.Handlers.Register;
 
 namespace RestaurantManagement.Controllers;
@@ -22,7 +24,9 @@ public class UserController(ISender sender) : ControllerBase
     }
 
     [HttpPost]
-    [Authorize (Roles ="Admin")]
+    //[Authorize(Roles = "Admin")]
+    [AllowAnonymous]
+
     public async Task<IActionResult> Register([FromBody] Command request) => Ok(await _sender.Send(request));
 
     [HttpDelete]
@@ -38,4 +42,8 @@ public class UserController(ISender sender) : ControllerBase
     [HttpPost("Login")]
     [AllowAnonymous]
     public async Task<IActionResult> Login([FromBody] Login.LoginRequest request) => Ok(await _sender.Send(request));
- }
+
+    [HttpPost("RefreshToken")]
+    public async Task<IActionResult> RefreshToken([FromBody] RefreshTokenRequest request) =>
+        Ok(await _sender.Send(request));
+}
